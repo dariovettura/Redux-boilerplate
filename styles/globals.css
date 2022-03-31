@@ -328,6 +328,9 @@ p {
   .MuiDrawer-paper {
     width: 90vw;
   }
+  .header{
+    backdrop-filter: blur(20px);
+  }
   .header .logo img {
     width: 70%;
   }
